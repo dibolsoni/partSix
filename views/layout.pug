@@ -12,9 +12,9 @@ html(class="no-js" lang="en" dir="ltr")
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
-          br
           .cell.shrink
-            img#me(src='../static/img/me.jpg')
+            img#logo(src='../static/img/logo.png')
+
           .cell.auto
 
             //- Add your name here.
@@ -27,6 +27,12 @@ html(class="no-js" lang="en" dir="ltr")
             //- Add about page route to the href below.
             a(href='/about') Learn More →
 
+        div#main-footer
+          p Handcrafted by me &copy; Decebe - 2019
+
+
+
+
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
         .title-bar-left
@@ -37,7 +43,6 @@ html(class="no-js" lang="en" dir="ltr")
       block content
         
 
-      
   script(src='/static/js/vendor/jquery.js')
   script(src='/static/js/vendor/what-input.js')
   script(src='/static/js/vendor/foundation.js')
