@@ -1,0 +1,95 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "Random Quote",
+            "description": "This is a example to show how the content of a page can changes by a user event",
+            "tecnologies": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "live_link": "https://dibolsoni.github.io/partOne/",
+            "github_link": "https://github.com/dibolsoni/partOne",
+            "image_urls": [
+                "/static/img/RandomQuote/example1.jpg",
+                "/static/img/RandomQuote/example2.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Pagination",
+            "description": "This is a example of a dynamic pagination page with a real time search input",
+            "tecnologies": [
+                "javascript",
+                "css",
+                "html"
+            ],
+            "live_link": "https://dibolsoni.github.io/partTwo/",
+            "github_link": "https://github.com/dibolsoni/partTwo",
+            "image_urls": [
+                "/static/img/Pagination/example1.jpg",
+                "/static/img/Pagination/example2.jpg",
+                "/static/img/Pagination/example3.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Form Validation",
+            "description": "Here you can see a form be validating as you type. You can validate it with other options also.",
+            "tecnologies": [
+                "javascript",
+                "css",
+                "html",
+                "JQuery"
+            ],
+            "live_link": "https://dibolsoni.github.io/partThree/",
+            "github_link": "https://github.com/dibolsoni/partThree",
+            "image_urls": [
+                "/static/img/FormValidation/example1.jpg",
+                "/static/img/FormValidation/example2.jpg",
+                "/static/img/FormValidation/example3.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Phare Hunter Game",
+            "description": "This is a game where you try to guess what is the phrase.",
+            "tecnologies": [
+                "vanilla javascript",
+                "css",
+                "html"
+            ],
+            "live_link": "https://dibolsoni.github.io/partFour/",
+            "github_link": "https://github.com/dibolsoni/partFour",
+            "image_urls": [
+                "/static/img/PhraseHunter/example1.jpg",
+                "/static/img/PhraseHunter/example2.jpg",
+                "/static/img/PhraseHunter/example3.jpg",
+                "/static/img/PhraseHunter/example4.jpg",
+                "/static/img/PhraseHunter/example5.jpg"
+            ]
+        } ,
+        {
+            "id": 5,
+            "project_name": "Public API Request",
+            "description": "In this example a external data (Random User API -  https://randomuser.me/) is used to populate a list. This type of service is known as Public API.",
+            "tecnologies": [
+                "javascript",
+                "css",
+                "html",
+                "Callback functins",
+                "Async/Await "
+            ],
+            "live_link": "https://dibolsoni.github.io/partFive/",
+            "github_link": "https://github.com/dibolsoni/partFive",
+            "image_urls": [
+                "/static/img/PublicAPIRequest/example1.jpg",
+                "/static/img/PublicAPIRequest/example2.jpg",
+                "/static/img/PublicAPIRequest/example3.jpg"
+            ]
+        }
+
+    ]
+}
+

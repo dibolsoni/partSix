@@ -1,0 +1,30 @@
+{
+  "name": "unit_six",
+  "version": "0.0.1",
+  "description": "A portfolio project from treehouse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dibolsoni/partSix.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "express",
+    "node",
+    "portfolio"
+  ],
+  "author": "Diego Carnavalli Bolsoni (decebe)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dibolsoni/partSix/issues"
+  },
+  "homepage": "https://github.com/dibolsoni/partSix#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.3"
+  }
+}
