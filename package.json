@@ -1,9 +1,10 @@
 {
-  "name": "unit_six",
+  "name": "portfolio",
   "version": "0.0.1",
   "description": "A portfolio project from treehouse",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,5 +27,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "pug": "^2.0.3"
-  }
+  },
+  "devDependencies": {}
 }
