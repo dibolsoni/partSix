@@ -1,4 +1,4 @@
-# partSix
+# partSix - Static Node.js and Express site
 A portfolio project from Treehouse
 This is a project to use express and pug also shows the work I did in others projects from treehouse.
 
