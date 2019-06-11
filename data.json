@@ -21,9 +21,9 @@
             "project_name": "Pagination",
             "description": "This is a example of a dynamic pagination page with a real time search input",
             "tecnologies": [
-                "javascript",
-                "css",
-                "html"
+                "Javascript",
+                "CSS",
+                "HTML"
             ],
             "live_link": "https://dibolsoni.github.io/partTwo/",
             "github_link": "https://github.com/dibolsoni/partTwo",
@@ -38,9 +38,9 @@
             "project_name": "Form Validation",
             "description": "Here you can see a form be validating as you type. You can validate it with other options also.",
             "tecnologies": [
-                "javascript",
-                "css",
-                "html",
+                "Javascript",
+                "CSS",
+                "HTML",
                 "JQuery"
             ],
             "live_link": "https://dibolsoni.github.io/partThree/",
@@ -56,9 +56,9 @@
             "project_name": "Phare Hunter Game",
             "description": "This is a game where you try to guess what is the phrase.",
             "tecnologies": [
-                "vanilla javascript",
-                "css",
-                "html"
+                "Vanilla Javascript",
+                "CSS",
+                "HTML"
             ],
             "live_link": "https://dibolsoni.github.io/partFour/",
             "github_link": "https://github.com/dibolsoni/partFour",
@@ -75,10 +75,10 @@
             "project_name": "Public API Request",
             "description": "In this example a external data (Random User API -  https://randomuser.me/) is used to populate a list. This type of service is known as Public API.",
             "tecnologies": [
-                "javascript",
-                "css",
-                "html",
-                "Callback functins",
+                "Javascript",
+                "CSS",
+                "HTML",
+                "Callback Functions",
                 "Async/Await "
             ],
             "live_link": "https://dibolsoni.github.io/partFive/",
